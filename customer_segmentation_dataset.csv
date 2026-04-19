@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Age,Gender,City,Occupation,IncomeLevel,JoinDate,LastPurchaseDate,PurchaseFrequency,AverageOrderValue,TotalSpend,PreferredCategory,Channel,CustomerType,EngagementScore,SatisfactionScore,RetentionStatus,CustomerSegment,LoyaltyTier
+C001,Priya Sharma,29,Female,Hyderabad,Business,High,2024-03-09,2025-03-07,20,4632,92640,Fashion,Online,New,83,3.5,Retained,High Value,Silver
+C002,Neha Sharma,26,Male,Hyderabad,Designer,Low,2023-10-10,2024-08-12,9,3044,27396,Grocery,Offline,New,57,4.6,At Risk,High Value,Gold
+C003,Riya Singh,34,Male,Hyderabad,Manager,High,2023-08-24,2024-07-19,12,2483,29796,Fashion,Offline,Returning,78,3.7,Churned,High Value,Bronze
+C004,Karan Sharma,41,Female,Hyderabad,Student,Medium,2022-01-10,2022-12-26,13,1333,17329,Grocery,Offline,Returning,60,4.3,Churned,Mid Value,Bronze
+C005,Amit Verma,21,Male,Pune,Manager,High,2024-01-19,2024-06-12,18,865,15570,Electronics,Online,Returning,87,3.6,Retained,Low Value,Gold
+C006,Priya Joshi,34,Female,Hyderabad,Doctor,Low,2022-04-02,2022-09-16,20,629,12580,Health,Offline,Returning,91,5.0,At Risk,High Value,Bronze
+C007,Arjun Patil,49,Female,Mumbai,Student,High,2022-12-06,2023-11-18,2,4606,9212,Grocery,App,New,66,3.5,Churned,Mid Value,Bronze
+C008,Arjun Verma,27,Male,Hyderabad,Student,Medium,2023-06-27,2024-09-12,15,1843,27645,Electronics,Offline,Returning,94,4.5,At Risk,Mid Value,Bronze
+C009,Karan Joshi,30,Female,Pune,Engineer,Low,2023-07-23,2024-12-04,2,1874,3748,Fashion,Online,New,76,5.0,Churned,High Value,Silver
+C010,Sneha Sharma,36,Male,Bangalore,Business,High,2022-09-17,2024-01-27,15,1965,29475,Fashion,App,Returning,71,3.9,Churned,Low Value,Gold
+C011,Amit Verma,35,Female,Pune,Engineer,Medium,2023-02-05,2023-05-20,4,2620,10480,Electronics,Offline,New,53,4.3,Retained,Low Value,Silver
+C012,Vikas Patil,18,Female,Chennai,Designer,Medium,2024-04-22,2025-04-02,2,1343,2686,Health,Online,New,67,4.0,At Risk,Mid Value,Gold
+C013,Pooja Singh,49,Male,Chennai,Engineer,High,2022-11-09,2023-03-15,14,2969,41566,Fashion,Offline,Returning,88,3.0,Churned,High Value,Silver
+C014,Riya Sharma,47,Male,Hyderabad,Designer,Low,2022-11-02,2023-08-23,5,4353,21765,Electronics,Online,New,49,3.5,Churned,Low Value,Gold
+C015,Neha Verma,46,Male,Mumbai,Business,High,2022-12-04,2023-12-31,18,1373,24714,Grocery,App,Returning,80,2.5,Retained,Low Value,Silver
+C016,Rahul Sharma,34,Female,Bangalore,Engineer,Low,2022-09-21,2022-11-20,12,3350,40200,Electronics,Online,Returning,55,3.1,At Risk,Low Value,Gold
+C017,Amit Singh,38,Male,Bangalore,Manager,High,2023-05-27,2024-07-17,16,739,11824,Grocery,Offline,Returning,83,4.7,Churned,Low Value,Gold
+C018,Amit Joshi,40,Female,Pune,Engineer,Medium,2023-02-12,2024-06-16,19,4576,86944,Electronics,App,Returning,86,3.4,Retained,Mid Value,Gold
+C019,Amit Singh,27,Male,Bangalore,Doctor,Medium,2022-05-29,2023-05-08,15,4036,60540,Fashion,App,New,52,3.5,Churned,Mid Value,Bronze
+C020,Arjun Patil,29,Female,Delhi,Manager,Low,2022-03-23,2023-04-12,11,4105,45155,Health,Offline,Returning,48,4.7,At Risk,Low Value,Gold
+C021,Sneha Sharma,19,Female,Chennai,Business,Low,2022-11-07,2023-10-26,13,3267,42471,Automobile,Online,New,49,4.2,Churned,Low Value,Bronze
+C022,Arjun Singh,44,Female,Hyderabad,Doctor,Low,2022-06-28,2022-12-23,12,2541,30492,Automobile,App,Returning,51,3.4,At Risk,Mid Value,Bronze
+C023,Priya Patil,41,Male,Chennai,Business,High,2024-01-20,2024-06-16,3,3171,9513,Fashion,Online,New,59,3.8,Churned,Low Value,Bronze
+C024,Karan Patil,47,Female,Delhi,Student,Medium,2023-11-16,2023-12-05,6,1560,9360,Health,Online,New,51,4.7,At Risk,Low Value,Bronze
+C025,Rahul Patil,24,Female,Mumbai,Designer,High,2024-05-08,2024-09-29,16,3010,48160,Grocery,Offline,Returning,74,3.9,Retained,Mid Value,Gold
+C026,Pooja Patil,36,Male,Chennai,Manager,Medium,2023-06-02,2024-09-20,13,1324,17212,Fashion,App,Returning,94,5.0,Retained,Mid Value,Gold
+C027,Vikas Joshi,48,Male,Hyderabad,Business,High,2022-06-30,2022-08-21,4,755,3020,Grocery,App,New,47,3.6,Retained,Mid Value,Bronze
+C028,Riya Patil,44,Male,Delhi,Doctor,Low,2023-12-15,2024-05-12,8,4011,32088,Fashion,Online,New,68,3.5,At Risk,Low Value,Silver
+C029,Rahul Singh,36,Male,Bangalore,Business,Low,2023-10-25,2024-03-24,17,2394,40698,Electronics,App,New,97,4.2,At Risk,Mid Value,Gold
+C030,Pooja Verma,35,Male,Hyderabad,Manager,Low,2022-03-16,2022-11-04,18,3552,63936,Grocery,App,New,91,4.3,At Risk,Low Value,Bronze
+C031,Vikas Singh,35,Male,Chennai,Student,Medium,2022-07-14,2023-11-13,10,2939,29390,Grocery,Online,New,46,5.0,Churned,Mid Value,Bronze
+C032,Karan Patil,41,Female,Pune,Student,Low,2022-07-12,2023-05-10,8,3766,30128,Fashion,Offline,Returning,63,4.5,At Risk,Low Value,Gold
+C033,Riya Patil,26,Female,Chennai,Business,Medium,2024-02-03,2025-06-16,4,2050,8200,Grocery,Online,New,58,4.0,At Risk,Mid Value,Bronze
+C034,Amit Patil,29,Female,Pune,Engineer,High,2023-01-01,2024-01-30,2,4640,9280,Grocery,App,Returning,81,4.7,Retained,Low Value,Gold
+C035,Amit Sharma,49,Female,Chennai,Business,High,2023-06-08,2023-11-15,11,3405,37455,Grocery,App,Returning,42,3.0,Retained,High Value,Silver
+C036,Sneha Patil,28,Female,Bangalore,Manager,High,2024-02-06,2024-08-01,20,882,17640,Grocery,Offline,Returning,52,3.3,Retained,High Value,Bronze
+C037,Amit Verma,20,Female,Mumbai,Engineer,High,2023-06-03,2024-03-08,9,1189,10701,Health,Offline,New,75,3.9,Churned,Mid Value,Silver
+C038,Riya Patil,31,Male,Bangalore,Manager,High,2022-08-17,2023-12-23,13,2881,37453,Electronics,App,New,41,3.0,At Risk,Mid Value,Bronze
+C039,Rahul Singh,34,Male,Hyderabad,Designer,High,2022-07-28,2023-07-07,7,515,3605,Automobile,Online,New,87,4.6,Churned,Low Value,Bronze
+C040,Vikas Sharma,39,Female,Mumbai,Manager,High,2024-04-13,2025-07-17,8,1767,14136,Fashion,Offline,Returning,55,4.9,Retained,High Value,Gold
+C041,Pooja Joshi,24,Male,Pune,Business,High,2023-02-08,2023-07-16,4,2060,8240,Fashion,Offline,Returning,45,3.0,Retained,High Value,Bronze
+C042,Sneha Verma,36,Female,Chennai,Business,Medium,2023-02-23,2024-01-20,9,4944,44496,Automobile,Online,New,68,4.3,At Risk,Mid Value,Silver
+C043,Pooja Sharma,50,Male,Mumbai,Business,Medium,2022-03-20,2022-12-09,2,1818,3636,Health,App,Returning,51,2.7,Churned,High Value,Bronze
+C044,Riya Joshi,31,Male,Hyderabad,Student,Medium,2024-02-08,2025-06-01,6,2368,14208,Automobile,Online,New,98,3.8,Retained,High Value,Bronze
+C045,Rahul Patil,50,Female,Delhi,Engineer,High,2023-07-12,2024-10-29,1,1027,1027,Health,Offline,Returning,97,4.5,Churned,High Value,Silver
+C046,Arjun Verma,19,Male,Chennai,Student,High,2024-03-09,2024-12-29,16,787,12592,Grocery,App,New,83,2.7,Retained,Low Value,Gold
+C047,Priya Patil,20,Male,Delhi,Student,Medium,2022-02-03,2022-12-21,20,1513,30260,Automobile,App,Returning,99,4.3,Retained,High Value,Bronze
+C048,Pooja Sharma,49,Female,Pune,Engineer,High,2023-04-30,2023-12-23,16,2000,32000,Electronics,Offline,New,91,4.4,Retained,Low Value,Gold
+C049,Priya Sharma,37,Male,Chennai,Business,Medium,2022-03-21,2023-01-23,19,4989,94791,Automobile,Offline,Returning,59,3.7,Retained,High Value,Silver
+C050,Neha Joshi,49,Male,Pune,Designer,High,2024-05-31,2025-09-13,7,4712,32984,Health,Online,Returning,95,3.1,Retained,High Value,Bronze
+C051,Arjun Singh,26,Male,Mumbai,Business,Low,2024-04-04,2024-06-18,5,4549,22745,Automobile,Offline,Returning,57,3.8,At Risk,Low Value,Gold
+C052,Rahul Sharma,40,Female,Mumbai,Engineer,Medium,2024-04-01,2025-07-12,18,3474,62532,Automobile,Offline,Returning,89,3.3,Retained,Mid Value,Silver
+C053,Neha Sharma,29,Male,Hyderabad,Manager,High,2022-07-16,2023-03-24,10,4942,49420,Health,App,New,70,3.0,At Risk,High Value,Silver
+C054,Karan Joshi,29,Female,Chennai,Doctor,Low,2024-02-28,2024-09-16,8,945,7560,Electronics,Online,New,59,4.8,Churned,Mid Value,Gold
+C055,Amit Singh,49,Female,Delhi,Student,Medium,2022-04-12,2022-05-05,14,589,8246,Automobile,App,Returning,58,4.7,At Risk,Mid Value,Gold
+C056,Priya Verma,20,Male,Pune,Designer,Medium,2022-11-10,2024-02-14,5,1693,8465,Electronics,Online,Returning,97,4.3,Churned,Low Value,Silver
+C057,Karan Verma,43,Female,Chennai,Doctor,High,2022-08-31,2023-04-12,9,2345,21105,Grocery,App,New,45,2.9,Retained,Mid Value,Gold
+C058,Vikas Singh,21,Female,Pune,Designer,Low,2022-07-04,2023-08-04,13,2959,38467,Electronics,Offline,Returning,40,4.7,Churned,High Value,Bronze
+C059,Priya Verma,48,Male,Pune,Designer,Low,2023-05-13,2023-07-17,13,1141,14833,Electronics,Offline,New,83,2.9,Churned,Low Value,Bronze
+C060,Pooja Singh,21,Female,Mumbai,Designer,Low,2022-05-12,2022-11-04,11,4099,45089,Fashion,Online,Returning,44,2.9,Retained,High Value,Silver
+C061,Arjun Joshi,47,Male,Bangalore,Doctor,Medium,2022-11-28,2023-02-09,9,911,8199,Fashion,App,Returning,83,3.5,Churned,Low Value,Gold
+C062,Vikas Singh,29,Male,Delhi,Designer,Medium,2022-12-27,2023-08-03,16,2584,41344,Health,Online,Returning,45,4.2,Retained,Mid Value,Bronze
+C063,Rahul Singh,36,Female,Delhi,Business,Medium,2023-11-15,2023-12-25,14,666,9324,Health,Offline,New,86,4.9,At Risk,Mid Value,Bronze
+C064,Sneha Sharma,25,Male,Mumbai,Engineer,High,2024-03-14,2024-08-12,11,3654,40194,Electronics,Online,New,73,3.1,At Risk,High Value,Silver
+C065,Pooja Singh,18,Male,Pune,Doctor,Medium,2023-04-08,2023-06-20,9,3059,27531,Health,App,New,60,4.5,At Risk,Mid Value,Silver
+C066,Riya Verma,43,Male,Bangalore,Student,Low,2024-03-01,2025-01-15,7,4414,30898,Fashion,App,Returning,77,3.5,At Risk,Low Value,Silver
+C067,Pooja Patil,42,Male,Bangalore,Engineer,Low,2023-05-05,2023-11-12,16,3938,63008,Grocery,App,New,93,2.9,Churned,Mid Value,Gold
+C068,Sneha Joshi,22,Male,Mumbai,Doctor,Low,2022-03-14,2023-06-23,15,3997,59955,Automobile,Online,Returning,71,3.2,Churned,High Value,Bronze
+C069,Priya Joshi,37,Female,Delhi,Manager,High,2022-12-02,2023-09-07,14,2203,30842,Health,Online,New,73,3.8,Churned,Low Value,Bronze
+C070,Priya Verma,35,Male,Delhi,Business,Low,2022-03-22,2022-11-10,7,1443,10101,Fashion,Online,Returning,61,3.6,Retained,High Value,Silver
+C071,Vikas Joshi,34,Female,Chennai,Business,High,2023-10-20,2025-01-29,7,1129,7903,Electronics,Offline,New,51,3.4,Retained,Low Value,Gold
+C072,Riya Verma,29,Male,Hyderabad,Business,High,2023-11-27,2024-03-08,20,4271,85420,Fashion,Online,New,100,4.1,Retained,Mid Value,Bronze
+C073,Vikas Sharma,29,Male,Chennai,Business,Medium,2022-07-23,2022-12-30,13,2625,34125,Electronics,Offline,New,88,4.8,Churned,Low Value,Bronze
+C074,Karan Verma,49,Female,Mumbai,Manager,Medium,2023-04-21,2023-05-12,9,4855,43695,Fashion,App,Returning,94,2.6,Retained,Mid Value,Bronze
+C075,Pooja Verma,31,Male,Delhi,Manager,Medium,2022-09-22,2023-11-12,10,4398,43980,Grocery,Offline,Returning,67,4.5,At Risk,High Value,Bronze
+C076,Neha Singh,33,Male,Delhi,Doctor,Low,2022-07-10,2022-10-30,15,4732,70980,Automobile,App,New,98,3.4,Retained,Low Value,Bronze
+C077,Sneha Sharma,44,Male,Chennai,Doctor,High,2023-11-17,2025-03-12,11,4724,51964,Electronics,Online,Returning,42,4.2,Retained,Mid Value,Bronze
+C078,Sneha Patil,28,Female,Bangalore,Student,Low,2024-05-11,2025-01-02,7,4569,31983,Automobile,App,Returning,46,4.7,Retained,Mid Value,Bronze
+C079,Pooja Patil,32,Male,Chennai,Business,Low,2022-05-23,2023-02-16,18,2104,37872,Fashion,Offline,Returning,73,4.2,Churned,Mid Value,Silver
+C080,Pooja Joshi,48,Female,Chennai,Engineer,High,2023-03-03,2024-07-08,6,3815,22890,Fashion,Offline,Returning,99,3.5,Retained,Mid Value,Gold
+C081,Neha Patil,38,Male,Mumbai,Business,High,2024-04-29,2024-10-28,18,2734,49212,Fashion,App,New,100,3.7,Retained,Mid Value,Bronze
+C082,Sneha Joshi,42,Female,Hyderabad,Designer,Low,2022-08-29,2023-03-04,9,3939,35451,Grocery,App,New,90,4.4,Retained,Mid Value,Silver
+C083,Neha Patil,22,Male,Chennai,Manager,Medium,2023-05-29,2023-07-26,16,3277,52432,Automobile,Offline,New,45,4.0,Retained,Mid Value,Gold
+C084,Rahul Singh,47,Male,Hyderabad,Student,Medium,2023-09-28,2024-02-15,17,1956,33252,Health,App,New,84,4.4,Churned,Mid Value,Bronze
+C085,Vikas Verma,18,Male,Mumbai,Engineer,High,2024-06-12,2025-01-03,19,2325,44175,Automobile,App,New,60,3.6,Churned,Mid Value,Gold
+C086,Sneha Singh,25,Male,Pune,Business,Medium,2023-05-26,2023-10-07,7,4189,29323,Electronics,Offline,Returning,84,3.6,Retained,Low Value,Bronze
+C087,Pooja Singh,45,Female,Chennai,Business,Low,2023-11-20,2025-02-14,11,2844,31284,Automobile,Online,Returning,97,3.7,At Risk,Low Value,Silver
+C088,Amit Patil,50,Female,Hyderabad,Engineer,Medium,2024-02-08,2025-06-22,1,643,643,Health,App,Returning,68,4.3,Churned,Low Value,Bronze
+C089,Arjun Verma,21,Male,Chennai,Engineer,Medium,2024-01-04,2025-04-10,9,2613,23517,Electronics,Online,New,41,2.8,At Risk,Low Value,Gold
+C090,Amit Sharma,50,Female,Hyderabad,Engineer,Medium,2023-07-03,2023-07-14,12,4651,55812,Electronics,App,New,53,4.5,Retained,High Value,Bronze
+C091,Neha Joshi,34,Male,Chennai,Manager,Medium,2023-05-11,2023-12-12,8,3716,29728,Electronics,Offline,New,42,4.2,At Risk,Low Value,Silver
+C092,Rahul Joshi,45,Female,Mumbai,Manager,Low,2024-04-05,2024-12-13,19,3784,71896,Automobile,Offline,New,93,4.1,Retained,Low Value,Gold
+C093,Vikas Sharma,39,Female,Hyderabad,Engineer,Medium,2023-06-13,2024-06-30,12,1251,15012,Automobile,Online,Returning,92,4.6,Retained,High Value,Bronze
+C094,Vikas Singh,39,Female,Chennai,Business,Medium,2022-11-08,2023-12-16,3,1222,3666,Fashion,Online,New,62,3.8,At Risk,High Value,Bronze
+C095,Riya Patil,40,Male,Chennai,Engineer,High,2023-12-20,2024-05-26,1,3321,3321,Electronics,Online,New,97,2.6,At Risk,Low Value,Gold
+C096,Amit Joshi,31,Female,Mumbai,Doctor,Low,2022-10-29,2023-11-09,12,4478,53736,Automobile,App,New,46,2.7,Retained,Mid Value,Gold
+C097,Amit Joshi,38,Male,Mumbai,Manager,Medium,2022-10-06,2023-01-03,13,3324,43212,Health,Offline,Returning,83,2.7,Churned,Mid Value,Bronze
+C098,Karan Singh,43,Female,Pune,Student,Medium,2023-07-20,2023-08-21,12,1100,13200,Automobile,Online,Returning,93,3.9,Churned,High Value,Silver
+C099,Karan Singh,41,Female,Mumbai,Business,High,2023-02-15,2023-12-30,13,1622,21086,Fashion,Offline,Returning,64,4.5,Retained,High Value,Gold
+C100,Vikas Singh,18,Male,Pune,Designer,Low,2024-06-10,2024-08-21,3,3643,10929,Fashion,App,Returning,96,3.4,Churned,Low Value,Gold
